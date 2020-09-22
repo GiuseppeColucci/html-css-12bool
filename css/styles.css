@@ -1,0 +1,12 @@
+/* DEMO STYLES!! */
+
+.box{
+  text-align: center;
+  background: orange;
+  border: 5px solid green;
+}
+h1,
+h2{
+  text-align: center;
+  margin: 30px;
+}
