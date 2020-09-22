@@ -23,6 +23,10 @@ clear: both;
   padding-left: 10px;
   padding-right: 10px;
 }
+[class*='col-'].padding-0{
+  padding-left: 0;
+  padding-right: 0;
+}
 /* ----------------------------------------------------- */
 /* COLONNE!! */
 .col-12{
